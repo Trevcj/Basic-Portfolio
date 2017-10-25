@@ -1,0 +1,7 @@
+
+body {font-family: "Helvetica", Georgia;
+	   }
+
+#body {background-color: white;
+	   }
+.hangman {box-shadow: 10px 10px 5px #888888;}
